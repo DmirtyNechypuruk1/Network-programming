@@ -1,2 +1,2 @@
-# LB1REP
-NURElb1
+Network programming 
+Нечипурук Дмитро КУІБ-21-2
